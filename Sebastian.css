@@ -17,7 +17,7 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 40%;
+    width: 60%;
 }
 .imagemcentralizada {
  text-align: center;
@@ -53,5 +53,5 @@ nav a{
     border-color: white;
     border-width: 10px;
     border-style: solid; 
-    backgound-color: black;
+    background-color: black;
 }
