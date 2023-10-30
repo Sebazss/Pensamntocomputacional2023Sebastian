@@ -56,3 +56,7 @@ nav a{
     border-style: solid; 
     background-color: black;
 }
+nav a:hover {
+    color: white
+    text-decoration: underline;
+}
